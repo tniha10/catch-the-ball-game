@@ -429,23 +429,3 @@ The current game provides a simple foundation that can be expanded with features
 The current version focuses on demonstrating core Java programming, GUI development, object-oriented design, and basic game mechanics.
 
 ---
-
-## 👩‍💻 Author
-
-**Niha**
-
-GitHub: [@tniha10](https://github.com/tniha10)
-
----
-
-## ⭐ Support
-
-If you found this project interesting, feel free to explore the code, experiment with the game mechanics, and build your own improvements.
-
-⭐ **Star the repository if you enjoyed it!**
-
----
-
-### 📜 License
-
-This project does not currently include a license file.
