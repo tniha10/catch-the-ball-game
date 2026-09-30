@@ -2,11 +2,6 @@
 
 > A simple Java desktop game where you control a player and catch falling objects before you run out of lives.
 
-[![Java](https://img.shields.io/badge/Java-8%2B-orange?logo=openjdk)](https://www.oracle.com/java/)
-[![Swing](https://img.shields.io/badge/GUI-Java%20Swing-blue)](https://docs.oracle.com/javase/tutorial/uiswing/)
-[![AWT](https://img.shields.io/badge/Graphics-Java%20AWT-green)](https://docs.oracle.com/javase/8/docs/api/java/awt/package-summary.html)
-[![Status](https://img.shields.io/badge/Status-Completed-success)](#)
-
 ## ✨ About the Game
 
 **Catch the Ball** is a small Java-based arcade game created to practice fundamental Java programming and object-oriented programming concepts.
